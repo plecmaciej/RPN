@@ -1,4 +1,4 @@
-# RPI Calculator
+# RPN Calculator
 This project is a calculator that converts **infix notation** (standard mathematical expressions) into **Reverse Polish Notation (RPN)** and evaluates the result.  
 
 It supports:
